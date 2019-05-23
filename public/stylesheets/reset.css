@@ -1,0 +1,42 @@
+html {
+  font-size: 10px;
+  font-family: sans-serif;
+}
+
+/* .hidden-scrollbar::-webkit-scrollbar {
+  display: none;
+} */
+
+body, nav, ul, li, div, span, h1, h2, h3, h4, h5, h6,
+  article, section, a, input, button, img, form, textarea {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+  box-shadow: 0;
+  box-sizing: border-box;
+  font-size: inherit;
+  font-family: inherit;
+  font-weight: inherit;
+  color: inherit;
+  background-color: transparent;
+}
+
+body {
+  font-size: 1.4rem;
+}
+
+img {
+  display: block;
+  height: inherit;
+  width: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+}
